@@ -1,6 +1,9 @@
 type,simplified,traditional,pinyin,english,tw-specific,rarer-alternative,yingdidian-named,archaic
 country,英国,英國,Yīng guó,United Kingdom (UK),FALSE,FALSE,FALSE,FALSE
 country,大不列颠及北爱尔兰联合王国,大不列顛暨北愛爾蘭聯合王國,Dà bù liè diān jí běi ài ěr lán lián hé wáng guó,United Kingdom of Great Britain and Northern Ireland,FALSE,FALSE,FALSE,FALSE
+country,联合王国,聯合王國,Lián hé wáng guó,United Kingdom (UK),FALSE,FALSE,FALSE,FALSE
+country,英联合王国,英聯合王國,Yīng lián hé wáng guó,United Kingdom (UK),FALSE,TRUE,FALSE,FALSE
+country,大英联合王国,大英聯合王國,Dà yīng lián hé wáng guó,United Kingdom (UK),FALSE,TRUE,FALSE,FALSE
 country,英格兰,英格蘭,Yīng gé lán,England,FALSE,FALSE,FALSE,FALSE
 country,威尔士,威爾士,Wēi ěr shì,Wales,FALSE,FALSE,FALSE,FALSE
 country,北爱尔兰,北愛爾蘭,Běi ài ěr lán,Northern Ireland,FALSE,FALSE,FALSE,FALSE
