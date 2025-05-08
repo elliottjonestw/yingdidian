@@ -30,5 +30,7 @@ city,伦敦,倫敦,Lún dūn,London,FALSE,FALSE,FALSE,FALSE
 city,𪢠吨,囒噸,Lán dūn,London,FALSE,FALSE,FALSE,TRUE
 city,诺维奇,諾里奇,Nuò lǐ qí,Norwich,FALSE,FALSE,FALSE,FALSE
 city,牛津,牛津,Niú jīn,Oxford,FALSE,FALSE,FALSE,FALSE
+city,剑桥,劍橋,Jiàn qiáo,Cambridge,FALSE,FALSE,FALSE,FALSE
+city,康桥,康橋,Kāng qiáo,Cambridge,FALSE,FALSE,FALSE,TRUE
 county,诺福克,諾福克,Nuò fú kè,Norfolk,FALSE,FALSE,FALSE,FALSE
 suburb,芬奇费德,芬奇費德,Fēn qí fèi dé,Finchfield,FALSE,FALSE,TRUE,FALSE
