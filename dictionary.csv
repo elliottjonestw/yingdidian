@@ -42,6 +42,8 @@ city,威斯敏斯特,威斯敏斯特,Wēi sī mǐn sī tè,Westminster,FALSE,FAL
 city,西敏,西敏,Xī mǐn,Westminster,TRUE,FALSE,FALSE,FALSE
 city,利兹,利茲,Lì zī,Leeds,FALSE,FALSE,FALSE,FALSE
 city,里兹,里茲,Lǐ zī,Leeds,TRUE,FALSE,FALSE,FALSE
+city,布里斯托尔,布里斯托爾,Bù lǐ sī tuō ěr,Bristol,FALSE,FALSE,FALSE,FALSE
+city,布里斯托,布里斯托,Bù lǐsī tuō,Bristol,TRUE,FALSE,FALSE,FALSE
 county,诺福克,諾福克,Nuò fú kè,Norfolk,FALSE,FALSE,FALSE,FALSE
 town,达德利,達德利,Dá dé lì,Dudley,FALSE,FALSE,FALSE,FALSE
 town,斯凯格内斯,斯凱格內斯,Sī kǎi gé nèi sī,Skegness,FALSE,FALSE,FALSE,FALSE
