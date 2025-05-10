@@ -45,6 +45,8 @@ city,里兹,里茲,Lǐ zī,Leeds,TRUE,FALSE,FALSE,FALSE
 city,布里斯托尔,布里斯托爾,Bù lǐ sī tuō ěr,Bristol,FALSE,FALSE,FALSE,FALSE
 city,布里斯托,布里斯托,Bù lǐsī tuō,Bristol,TRUE,FALSE,FALSE,FALSE
 city,诺丁汉,諾丁漢,Nuò dīng hàn, Nottingham,FALSE,FALSE,FALSE,FALSE
+city,埃克塞特,埃克塞特,Āi kè sāi tè,Exeter,FALSE,FALSE,FALSE,FALSE
+city,艾希特,艾希特,Ài xī tè,Exeter,TRUE,FALSE,FALSE,FALSE
 county,诺福克,諾福克,Nuò fú kè,Norfolk,FALSE,FALSE,FALSE,FALSE
 town,达德利,達德利,Dá dé lì,Dudley,FALSE,FALSE,FALSE,FALSE
 town,斯凯格内斯,斯凱格內斯,Sī kǎi gé nèi sī,Skegness,FALSE,FALSE,FALSE,FALSE
